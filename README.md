@@ -6,7 +6,7 @@ Virtex BOT Whatsapp Ganas 2021
 > pkg update && pkg upgrade
 > pkg install git -y
 > pkg install nodejs -y
-> git clone https://github.com/Bintang73/VirtexBotWa
+> git clone https://github.com/hanzalid/VirtexBotWa
 > cd VirtexBotWa
 > npm install
 > node index.js
@@ -16,7 +16,7 @@ Virtex BOT Whatsapp Ganas 2021
 ```bash
 > download node js and install
 > download git and install
-> git clone https://github.com/Bintang73/VirtexBotWa
+> git clone https://github.com/hanzalid/VirtexBotWa
 > cd VirtexBotWa
 > npm install
 > node index.js
@@ -29,8 +29,9 @@ Virtex BOT Whatsapp Ganas 2021
 ###### BAGAIMANA CARA MENJALANKAN VIRTEX?
 ```bash
 > setelah kamu membuat perintah "node index.js" lalu scan qr whatsapp web mu!
-> cari target grup whatsapp
-> kirim pesan "zhack" (tanpa tanda ")
+> cari target grup WhatsApp
+> [BUG WA INI HANYA BISA DIGUNAKAN DIDALAM GRUP!]
+> kirim pesan "hiikak" (tanpa tanda ")
 > selamat virtex berhasil dikirim.
 ```
 
@@ -39,7 +40,7 @@ Virtex BOT Whatsapp Ganas 2021
 ```bash
 > kamu juga bisa mencustom perintah dan jawaban bot kamu
 > caranya kamu buka file setting.json
-> lalu ubah kata "zhack" menjadi sesuka hati kalian.
+> lalu ubah kata "hiikak" menjadi sesuka hati kalian.
 > kamu juga bisa mengubah pesan "succes!" menjadi sesuka hati kalian.
 ```
 
@@ -55,5 +56,6 @@ Virtex BOT Whatsapp Ganas 2021
 
 ---------
 
-##### Powered By : [`st4rz`](https://instagram/bintang_nur_pradana) 
-##### Donate : [`Saweria`](https://saweria.co/donate/bintangnurpradana) 
+##### Powered By : [`Hans`](https://instagram/Creazyuwetea) 
+
+x
