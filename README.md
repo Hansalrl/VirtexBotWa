@@ -56,6 +56,7 @@ Virtex BOT Whatsapp Ganas 2021
 
 ---------
 
-##### Powered By : [`Hans`](https://instagram/Creazyuwetea) 
+##### Powered By : [`Hans`](https://www.instagram.com/creazyuwetea/) 
+##### Lapor Bug : [`WA`](https://api.whatsapp.com/send/?phone=6283843313959&text&app_absent=0)
 
-x
+
